@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>merchmanagementadmin &#8211; Merch Management &#8211; Brand Merchandise Store Creators</title>
+	<atom:link href="/author/merchmanagementadmin/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Merch Management represents your brand on product lines such as Apparel, Accessories &#38; Low Content Books across multiple Amazon marketplaces. We are an agency that specializes in Merch By Amazon and Kindle Direct Publishing (KDP). With several years’ experience selling on these platforms within Amazon, the team can get your brand up and running on Amazon in a matter of days.</description>
+	<lastBuildDate>Tue, 16 Jul 2019 22:43:00 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/sites/3/2019/05/cropped-mm-fav-01-150x150.png</url>
+	<title>merchmanagementadmin &#8211; Merch Management &#8211; Brand Merchandise Store Creators</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[merchmanagementadmin]]></dc:creator>
+		<pubDate>Tue, 16 Jul 2019 22:43:00 +0000</pubDate>
+				<category><![CDATA[Uncategorised]]></category>
+		<guid isPermaLink="false">http://merchmgt.merchwizard.app/?p=1</guid>
+
+					<description><![CDATA[<p>Welcome to Merch Wizard &#8211; Merch By Amazon Organizer Chrome Extension Tool Sites. This is your first post. Edit or delete it, then start blogging!</p>
+<p>The post <a rel="nofollow" href="/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="/">Merch Management - Brand Merchandise Store Creators</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Welcome to <a href="http://merchwizard.app/">Merch Wizard &#8211; Merch By Amazon Organizer Chrome Extension Tool  Sites</a>. This is your first post. Edit or delete it, then start blogging!</p>
+<p>The post <a rel="nofollow" href="/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="/">Merch Management - Brand Merchandise Store Creators</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Blog Post Title</title>
+		<link>/hello-world-2/</link>
+					<comments>/hello-world-2/#comments</comments>
+		
+		<dc:creator><![CDATA[merchmanagementadmin]]></dc:creator>
+		<pubDate>Sat, 08 Dec 2018 19:03:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[<p>What goes into a blog post? Helpful, industry-specific content that: 1) gives readers a useful takeaway, and 2) shows you&#8217;re an industry expert. Use your company&#8217;s blog posts to opine...</p>
+<p>The post <a rel="nofollow" href="/hello-world-2/">Blog Post Title</a> appeared first on <a rel="nofollow" href="/">Merch Management - Brand Merchandise Store Creators</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>What goes into a blog post? Helpful, industry-specific content that: 1) gives readers a useful takeaway, and 2) shows you&#8217;re an industry expert. </p>
+<p>Use your company&#8217;s blog posts to opine on current industry topics, humanize your company, and show how your products and services can help people.</p>
+<p>The post <a rel="nofollow" href="/hello-world-2/">Blog Post Title</a> appeared first on <a rel="nofollow" href="/">Merch Management - Brand Merchandise Store Creators</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world-2/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
